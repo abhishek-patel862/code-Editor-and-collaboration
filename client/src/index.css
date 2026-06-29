@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: smooth font + background */
+body {
+  @apply bg-gray-900 text-white;
+}
